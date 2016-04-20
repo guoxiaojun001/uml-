@@ -2,6 +2,8 @@
 设计模式之UML类图的常见关系（一）
 
 http://www.cnblogs.com/zxj159/p/3399654.html
+http://blog.csdn.net/tianhai110/article/details/6339565
+http://blog.csdn.net/superbsoftware/article/details/6911359
 
 在UML类图中，常见几种关系: 泛化（Generalization），依赖(Dependency)，关联（Association)，聚合（Aggregation），组合(Composition)。
 
